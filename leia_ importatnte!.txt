@@ -1,0 +1,4 @@
+usuario adm: mario@email.com(m123)
+usuario cliente: toad@email.com(t123)
+
+segue o arquivo de bancodo de dados SQL junto com o projeto.
